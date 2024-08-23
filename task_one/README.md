@@ -1,4 +1,4 @@
-Task One Overview
+# Task One Overview
 
 For this task, I used SQL to clean up the given datasets. Each question, independent of each other, has its own corresponding .sql folder with a .csv file output.
 
