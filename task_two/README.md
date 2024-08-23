@@ -25,7 +25,10 @@ For further consideration, it may not be necessary to use as high of a latent di
 I referenced the following code and articles to help understand and develop my VAE.
 
 https://github.com/williamcfrancis/Variational-Autoencoder-for-MNIST
+
 https://botorch.org/tutorials/vae_mnist
+
 https://krasserm.github.io/2018/04/07/latent-space-optimization/
+
 https://github.com/pytorch/examples/tree/main/mnist
 
